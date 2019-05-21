@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EappEraTask</string>
+    <string name="login">Login</string>
+    <string name="userName">User name</string>
+    <string name="pass">Password</string>
+    <string name="myLoc">My Location</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="invalid_user_name_msg">user name should be more than 2 chrachter</string>
+    <string name="invalid_pass_msg">your password should be at least 6 character</string>
+</resources>
